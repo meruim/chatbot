@@ -1,0 +1,15 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Simple chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "acebes",
+  "license": "ISC"
+}

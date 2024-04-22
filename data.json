@@ -1,0 +1,32 @@
+{
+  "conversations": [
+    {"question": "your name", "answer": "jhon kiem acebes :)"},
+    {"question": "are you singel?", "answer": "yes haha what about you ?"},
+    {"question": "i'm taken haha", "answer": "sana all haha"},
+    {"question": "are you okay ?", "answer": "yes! what about you?"},
+    {"question": "sup?", "answer": "Not much, just here!"},
+    {"question": "what's happening?", "answer": "Just chatting with you!"},
+    {"question": "how's life?", "answer": "Life's good, thanks for asking!"},
+    {"question": "what's the latest?", "answer": "Nothing much, just hanging out!"},
+    {"question": "how's everything?", "answer": "Everything's going well!"},
+    {"question": "what's the news?", "answer": "No news is good news!"},
+    {"question": "how have you been?", "answer": "I've been good, thanks for asking!"},
+    {"question": "what's crackin'?", "answer": "Not much, just here!"},
+    {"question": "what's the word?", "answer": "Just chatting with you!"},
+    {"question": "what's cooking?", "answer": "Not much, just hanging out!"},
+    {"question": "how's your day going?", "answer": "My day is going well, thanks!"},
+    {"question": "how's your week?", "answer": "It's been good so far!"},
+    {"question": "how's your weekend?", "answer": "Weekends are always great!"},
+    {"question": "what's happening with you?", "answer": "Just chilling!"},
+    {"question": "how's everything with you?", "answer": "Everything's good, thanks!"},
+    {"question": "what's the haps?", "answer": "Just here, chatting with you!"},
+    {"question": "what's the deal?", "answer": "Not much, just hanging out!"},
+    {"question": "what's up with you?", "answer": "Not much, just here!"},
+    {"question": "how's it hanging?", "answer": "It's hanging well, thanks for asking!"},
+    {"question": "how's tricks?", "answer": "Not much, just hanging out!"},
+    {"question": "what's the gossip?", "answer": "No gossip here, just chatting!"},
+    {"question": "what's shaking?", "answer": "Not much, just here!"},
+    {"question": "what's going down?", "answer": "Just here, chatting with you!"},
+    {"question": "what's good?", "answer": "Not much, just hanging out!"}
+  ]
+}

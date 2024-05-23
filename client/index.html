@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -15,13 +15,16 @@
       <h1>Simple Chatbot</h1>
     </div>
 
+    <!-- Show the chatbox UI -->
     <div id="chat-box">
       <div id="chat-log"></div>
     </div>
+    <!-- Assuming the message has been inputted, the sendMessage function is responsible of the capturing the user inputed and return an answer accordingly -->
     <div id="message-container">
       <input type="text" id="message" placeholder="Type your message here" />
       <button onclick="sendMessage()" id="sendButton">Send</button>
     </div>
+    <!-- Where the javascript located -->
     <script src="assets/index.js"></script>
   </body>
 </html>
